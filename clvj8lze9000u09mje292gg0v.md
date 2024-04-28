@@ -67,17 +67,19 @@ Also enable corepack using `corepack enable pnpm` which is used to manage packag
 
 > Tip: You can try out the vscode setups online at [vscode.dev](https://vscode.dev/)
 
-**User Settings (JSON):** [settings.json](https://gist.github.com/kxzazz/4d0f2294d591c5020ba42c17a277e6c5)
+**User Settings (JSON):**[settings.json](https://gist.github.com/kxzazz/4d0f2294d591c5020ba42c17a277e6c5)
 
-**Theme:** [Head in the Clouds](https://marketplace.visualstudio.com/items?itemName=radiolevity.head-in-the-clouds)
+**Theme:**[Head in the Clouds](https://marketplace.visualstudio.com/items?itemName=radiolevity.head-in-the-clouds)
 
-**File Icon Theme:** [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+**File Icon Theme:**[Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 
 **Other Extensions:**
 
 * [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
     
 * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+    
+* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
     
 * [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
     
