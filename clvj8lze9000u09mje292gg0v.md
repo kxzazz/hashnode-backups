@@ -65,11 +65,13 @@ Also enable corepack using `corepack enable pnpm` which is used to manage packag
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1714289086958/e6d4f16a-4888-4987-a09a-a6627907f822.png align="center")
 
-**Settings (JSON):**[settings.json gist](https://gist.github.com/kxzazz/4d0f2294d591c5020ba42c17a277e6c5)
+> Tip: You can try out the vscode setups online at [vscode.dev](https://vscode.dev/)
 
-**Theme:**[Head in the Clouds](https://marketplace.visualstudio.com/items?itemName=radiolevity.head-in-the-clouds)
+**User Settings (JSON):** [settings.json](https://gist.github.com/kxzazz/4d0f2294d591c5020ba42c17a277e6c5)
 
-**File Icon Theme:**[Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
+**Theme:** [Head in the Clouds](https://marketplace.visualstudio.com/items?itemName=radiolevity.head-in-the-clouds)
+
+**File Icon Theme:** [Monokai Pro](https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode)
 
 **Other Extensions:**
 
